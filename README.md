@@ -1,2 +1,4 @@
 # random-user-card
-Small frontend app that connects to the Random User API and turns JSON data into an interactive user card. Built with HTML, CSS, and JavaScript to practice asynchronous requests, DOM rendering, and basic state handling.
+Delivered a small interactive frontend application that connects a user interface to live API data, transforming raw JSON responses into a usable profile card experience. Implemented asynchronous data fetching, dynamic DOM updates, and state handling for loading and error feedback — demonstrating the transition from static pages to real data-driven web applications.
+
+<img width="578" height="661" alt="image" src="https://github.com/user-attachments/assets/37b69598-5e37-4681-b706-39e365ca8109" />
